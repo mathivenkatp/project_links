@@ -1,4 +1,6 @@
-# Projects
+# Projects 
+> Projects completed in the robotics field as an Automation engineer
+
 ### Autonomous Painting Robot
 Utilized ROS to integrate MiR and UR robots into an autonomous car painting system, enhancing paint application precision and automating automotive finishing processes. Responsibilities included:
 - Designing and implementing ROS nodes for communication between robots and painting equipment.
