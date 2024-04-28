@@ -1,4 +1,4 @@
-# Projects 
+# Projects Worked
 > Projects completed in the robotics field as an Automation engineer
 
 ### Autonomous Painting Robot
@@ -6,6 +6,7 @@ Utilized ROS to integrate MiR and UR robots into an autonomous car painting syst
 - Designing and implementing ROS nodes for communication between robots and painting equipment.
 - Conducting testing and debugging to ensure seamless operation.
 - Collaborating with cross-functional teams to integrate robotic systems into the painting process.
+---
 
 ### Pallet Picker
 Led process testing for an innovative pallet picker robot in a bustling warehouse, optimizing efficiency and ensuring seamless integration into the logistics workflow. Responsibilities included:
@@ -16,6 +17,9 @@ Led process testing for an innovative pallet picker robot in a bustling warehous
 [Pallet Picker](https://www.youtube.com/watch?v=VPWpdC7ZAhk)
 
 [![tcs](https://github.com/mathivenkatp/projects/assets/138156558/135d3ec3-4e6d-482f-8ca8-6015f19bbf6e)](https://www.youtube.com/watch?v=VPWpdC7ZAhk)
+
+---
+---
 
 ### Machine Tending Robots :
 #### Gantry Type - Top-load
@@ -42,6 +46,8 @@ Load cylindrical components in front of the machine for processing in automation
 
 [![Front Load](https://github.com/mathivenkatp/projects/assets/138156558/1dcf7364-0f98-4ec3-89e6-2a285221aad9)](https://www.youtube.com/shorts/5yVH6ZPpcKc)
 
+---
+
 ### Vision Based Pick and Place
 Integrated a 4-Axis SCARA Robot with a Python-enabled camera for picking and placing small inserts, controlled via PLC over Ethernet. Responsibilities included:
 - Developing vision algorithms for object detection and localization.
@@ -52,11 +58,15 @@ Integrated a 4-Axis SCARA Robot with a Python-enabled camera for picking and pla
 
 [![Pick and Place ](https://github.com/mathivenkatp/projects/assets/138156558/4779c540-158f-452a-a04f-2a79abda58c4)](https://www.youtube.com/watch?v=dZacgr-LfW4)
 
+---
+
 ### Dispensing using Fanuc Robots
 Employed two six-axis Fanuc robots to dispense paste onto raw components and pick & place the dispensed components onto a conveyor. Responsibilities included:
 - Designing end-of-arm tooling for precise dispensing and picking operations.
 - Programming robot paths and optimizing cycle times for maximum throughput.
 - Conducting validation tests to ensure accurate dispensing and picking performance.
+
+---
 
 ### Automatic Spring Assembly with Vision Inspection
 This machine assembles springs onto oil seals. It incorporates two vibratory bowl feeders and eight stations with vision inspection, effectively sorting parts into OK and NOT OK categories. Responsibilities included:
@@ -68,6 +78,8 @@ This machine assembles springs onto oil seals. It incorporates two vibratory bow
 
 [![Spring Assembly](https://github.com/mathivenkatp/projects/assets/138156558/91775df5-b0a2-45bc-acb8-8329f5db3cb0)](https://www.youtube.com/watch?v=CblMtXz2Cbc)
 
+---
+
 ### Case Packing Machine
 This machine is used to form 3x10, 4x10, and 5x8 matrices. It incorporates four Yamaha slides attached with servos, all controlled by a PLC. Responsibilities included:
 - Designing the mechanical layout and motion control system for precise case packing.
@@ -78,8 +90,13 @@ This machine is used to form 3x10, 4x10, and 5x8 matrices. It incorporates four 
 
 [![Case Packer](https://github.com/mathivenkatp/projects/assets/138156558/6ad6811f-daeb-4d4a-accd-ad5fe0fbd69f)](https://www.youtube.com/watch?v=YrUpZHDIqgI)
 
+---
+
 ### Label Cutting Machine
 This machine is used to cut labels of varying lengths, with the length selected on the HMI. Responsibilities included:
 - Designing and programming the cutting mechanism for accurate and consistent label cutting.
 - Integrating the HMI with the cutting system to enable user-friendly operation.
 - Conducting validation tests and implementing feedback mechanisms for continuous improvement.
+
+---
+---
